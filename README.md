@@ -24,3 +24,10 @@ The model I used was first trained through a **resnet-18 based image classifier*
 
 3. run the command imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/NAME_OF_CLASS_FOLDER/NAME_OF_JPEG DESIRED_NAME_OF_OUTPUT_JPG. The most probable output class of the model should be listed in the terminal.
 
+## Video
+Heres a video on how to do it!
+
+https://www.youtube.com/watch?v=KE3_OUl_KSc 
+
+(Note, if the link isnt navigating you when you click on it, just copy and paste the link into your browser)
+
